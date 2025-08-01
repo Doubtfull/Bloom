@@ -4,12 +4,16 @@ This is my first time creating a keyboard. BLOOM is an 80% mechanical keybooard
 It also has a gradient keycap colour.
 
 # BOM
-- 87x Cherry MX Switchers
+- 87x Cherry MX Switches
+- 87x Keycaps
 - 1x LED_SK6812MINI
 - 5x Stabilizers 
 - 87x Diode_DO-35
 - 1x RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
 - 1x Raspberry Pi Pico
+- 4x M3x16mm screws
+- 4x M3x5mx4mm heatset inserts
+- PCB
 
 ## Schematic
 ![schematic](https://github.com/Doubtfull/Bloom/blob/main/Assets/Schematic1.png)
