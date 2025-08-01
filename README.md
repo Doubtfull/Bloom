@@ -12,19 +12,20 @@ It also has a gradient keycap colour.
 - 1x OLED_128x32
 
 ## Schematic
-![schematic](https://github.com/Doubtfull/The-BatPad/blob/main/assets/Schematic.png)
+![schematic](https://github.com/Doubtfull/Bloom/blob/main/Assets/Schematic1.png)
+![schematic](https://github.com/Doubtfull/Bloom/blob/main/Assets/Schematic2.png)
 
 ## PCB
-![PCB](https://github.com/Doubtfull/The-BatPad/blob/main/assets/PCB.png)
+![PCB](https://github.com/Doubtfull/Bloom/blob/main/Assets/PCB.png)
 
 ## PCB Render
-![PCB Render](https://github.com/Doubtfull/The-BatPad/blob/main/assets/3D_PCB.png)
+![PCB Render](https://github.com/Doubtfull/Bloom/blob/main/Assets/PCB%203D.png)
 
 ## CAD Base
-![CAD Base](https://github.com/Doubtfull/The-BatPad/blob/main/assets/Bottom.png)
+![CAD Base](https://github.com/Doubtfull/Bloom/blob/main/Assets/Bottom%20Case.png)
 
 ## CAD Cover
-![CAD Cover](https://github.com/Doubtfull/The-BatPad/blob/main/assets/Top.png)
+![CAD Cover](https://github.com/Doubtfull/Bloom/blob/main/Assets/Top%20Case.png)
 
 ## Case Compatibility
-![case compatibility](https://github.com/Doubtfull/The-BatPad/blob/main/assets/Compatibility.png)
+![case compatibility](https://github.com/Doubtfull/Bloom/blob/main/Assets/Compatibility.png)
