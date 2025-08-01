@@ -1,7 +1,6 @@
 # BLOOM
 
-This is my first time creating a keyboard. BLOOM is an 80% mechanical keybooard
-It also has a gradient keycap colour.
+This is my first time creating a keyboard. BLOOM is an 80% mechanical keyboard. It also has a gradient keycap colours.
 
 ## BOM
 - 87x Cherry MX Switches
