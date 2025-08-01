@@ -24,6 +24,8 @@ time: 8 hours
 
 Routing the PCB was fairly easy and after I finished, I got 0 errors from DRC first try! I also changed the PCB design a little by adding field zones. It makes the PCB looks so much better!
 
+It wasn't until I finished wiring till I realized that my pico was too low. But instead I'll just make a longer hole so that the cable can reach the pico.
+
 ![PCB](https://github.com/Doubtfull/Bloom/blob/main/Assets/PCB.png)
 ![PCB Render](https://github.com/Doubtfull/Bloom/blob/main/Assets/PCB%203D.png)
 
@@ -36,3 +38,5 @@ The case that I made is very similar to the hackpad case that I made, this time 
 ![CAD Base](https://github.com/Doubtfull/Bloom/blob/main/Assets/Bottom%20Case.png)
 ![CAD Cover](https://github.com/Doubtfull/Bloom/blob/main/Assets/Top%20Case.png)
 ![case compatibility](https://github.com/Doubtfull/Bloom/blob/main/Assets/Compatibility.png)
+
+Don't worry there's more than enough space for the cable to connect to the pico!
