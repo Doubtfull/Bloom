@@ -3,7 +3,7 @@
 This is my first time creating a keyboard. BLOOM is an 80% mechanical keybooard
 It also has a gradient keycap colour.
 
-# BOM
+## BOM
 - 87x Cherry MX Switches
 - 87x Keycaps
 - 1x LED_SK6812MINI
