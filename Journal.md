@@ -40,3 +40,5 @@ The case that I made is very similar to the hackpad case that I made, this time 
 ![case compatibility](https://github.com/Doubtfull/Bloom/blob/main/Assets/Compatibility.png)
 
 Don't worry there's more than enough space for the cable to connect to the pico!
+
+I also worked and finished my BOM, compiled and sorted all my file for submission.
