@@ -1,6 +1,13 @@
 # BLOOM
 
-This is my first time creating a keyboard. BLOOM is an 80% mechanical keyboard. It also has a gradient keycap colours (You'll see that when it's fully built.)
+BLOOM is the first keyboard I designed and built. It’s an 80% mechanical keyboard with 87 keys, giving a good balance between compact size and full functionality. I used a Raspberry Pi Pico as the microcontroller, and wired everything by hand based on a custom schematic.
+
+The case is made to be simple and functional. I chose a gradient keycap set to add some colour variation. Once fully built, the colours move gradually across the board from one shade to another. The firmware supports basic typing functions, and I included a rotary encoder for volume control. An LED turns on when the board is powered.
+
+This project helped me learn how to design circuits and write firmware. It’s fully custom and made from the ground up.
+
+## Why?
+I decided to build this keyboard because I’ve always been interested in mechanical keyboards, but never had one of my own. I wanted something that felt personal and something I could use every day. I’ve always liked the look of gradient keycaps, and choosing the colours gave me a way to make the board feel more like mine. Since I plan to use this keyboard 24/7, building it gave me the motivation to get everything right and make it exactly how I want.
 
 
 |              Item             | Amount | Price CAD [$] | Link                                              |
