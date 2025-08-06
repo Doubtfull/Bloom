@@ -2,8 +2,8 @@
 title: BLOOM
 author: Ayomide Abraham
 description: 80% Mechanical Keyboard
-created_at: 07/20/2025
-total_time: 13 hours
+created at: 07/20/2025
+total time: 13 hours
 ---
 
 Time: 5 hours
