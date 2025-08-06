@@ -8,11 +8,11 @@ total time: 13 hours
 
 Time: 5 hours
 
-- Brainstormed what I wanted on my keyboard
-- Learned how to make an 80% keyboard (it's my first time)
-- Started working on schematic
+- I started by brainstorming what I wanted on my keyboard. I looked at layouts, features, and the number of keys I would need for daily use.
+- I researched how to build an 80% keyboard from scratch. This was my first time making a keyboard, so I had to learn each step carefully.
+- I began working on the schematic, mapping out how each key would connect to the microcontroller and how the rows and columns would be wired.
 
-My biggest issue was to find a proper MCU for the keyboard that wasn't too expensive. Luckily I came across the raspberry pi pico. With the pico, creating the schematic was much easier.
+One of the biggest challenges was choosing the right microcontroller. Many options were either too expensive or didn’t have enough GPIO pins. After some research, I found the Raspberry Pi Pico. It was affordable, reliable, and had more than enough I/O for the 87-key layout. Once I chose the Pico, building the schematic became much more easier.
 
 ![schematic](https://github.com/Doubtfull/Bloom/blob/main/Assets/Schematic1.png)
 ![schematic](https://github.com/Doubtfull/Bloom/blob/main/Assets/Schematic2.png)
