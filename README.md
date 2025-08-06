@@ -37,3 +37,4 @@ Total Price USD = $139.73
 
 ## Case Compatibility
 ![case compatibility](https://github.com/Doubtfull/Bloom/blob/main/Assets/Compatibility.png)
+![case compatibility](https://github.com/Doubtfull/Bloom/blob/main/Assets/Compatibility-side.png)
